@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,29 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.BiasAwareness {
+  text-align: center;
+}
+
+.Content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 50px;
+}
+
+.Image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.TextContainer {
+  text-align: left;
+}
+
+.BlueText {
+  color: blue;
 }
