@@ -1,0 +1,34 @@
+.Homepage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    text-align: center;
+    color: F5F5F5;
+  }
+  
+  .ImageContainer {
+    margin-bottom: px;
+    margin: 0 auto;
+  }
+  
+  .MainImage {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .TextContainer {
+    max-width: 600px;
+  }
+  
+  .BlueTextRight {
+    color: #87CAFA;
+    text-align: right;
+    margin-bottom: 20px;
+  }
+  
+  .BlueTextBelow {
+    color: #87CAFA;
+  }
+  
