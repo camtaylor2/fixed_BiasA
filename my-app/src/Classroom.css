@@ -1,9 +1,10 @@
 .ClassroomPage {
-    padding: 70px;
+    position: relative;
+    padding: 20px;
   }
   
   .Content {
-    max-width: 1000px;
+    max-width: 800px;
     margin: 0 auto;
   }
   
@@ -27,17 +28,18 @@
   .CircleContainer {
     display: flex;
     justify-content: space-between;
-    margin-top: 40px;
+    margin-top: 50px;
   }
   
   .Circle {
-    width: 100px;
-    height: 100px;
+    width: 300px;
+    height: 200px;
     border-radius: 50%;
-    background-color: #ccc;
+    background-color: #F8C8DC;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 14px
   }
   
   .HeaderImage {
