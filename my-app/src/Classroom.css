@@ -24,10 +24,17 @@
   .BulletPoints {
     font-size: 16px;
   }
-  
+  .ClassroomImageContainer {
+    width: 100%;
+    height: 100%;
+  }
+  .ClassroomImage {
+    background-image: url('../images/Classroom.jpg');
+  }
   .CircleContainer {
     display: flex;
     justify-content: space-between;
+    padding-left: 75px;
     margin-top: 50px;
   }
   

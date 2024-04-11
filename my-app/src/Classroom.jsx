@@ -10,10 +10,14 @@ function Classroom() {
       <div className="Content">
         <div className="Section">
           <h1 className="Title">How does bias manifest in the classroom?</h1>
+          <div className="ClassroomImageContainer">
+                <div className = "ClassroomImage"></div>
+            </div>
           <p className="Description">
           <p>Bias can manifest in the classroom through differential treatment of students by a teacher or professor. This can appear in the form of expecting students of a marginalized race, ethnicity, national origin, gender identity, sexual orientation, or socioeconomic status to not perform as well as students who are of non marginalized identities. For example, an English professor might take notice of a lot more grammar mistakes on an essay that a student whose native language isn’t English wrote and consequently end up grading harsher. This is a very common form of implicit bias in the classroom that may naturally translate to this professor subconsciously expecting less of that student (and the professor may not even be aware of this bias). Another example could be when a professor is much friendlier to her white students and ends up favoring them more, constantly showering them with encouragement and positive comments but neglecting or not taking her students of color seriously.</p>
           <p>Bias can also appear when teachers in high school are recommending their students for advanced coursework. Statistics show that racial minority students, especially Black and Latino students, are less likely to be recommended into Advanced Placement (AP) or International Baccalaureate (IB) courses compared to their white peers. Instead, they are more likely to be recommended into lower track classes even if they have comparable grades with white students that get recommended into AP or IB courses. Additionally, high school guidance counselors may be more reluctant to encourage minority students to apply to “higher tier” schools and instead encourage them to “keep their list realistic”, implying that they should stick to applying to state schools and community colleges. When these students arrive college, they often face under preparedness in their courses along with elitism from both peers and professors. They face heightened levels of impostor syndrome, thus creating a negative feedback loop where they feel more reluctant to make effort in class because the professors have lower expectations for them.</p>
           </p>
+            
         </div>
         
         <div className="Section">
