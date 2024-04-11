@@ -15,6 +15,7 @@ function Classroom() {
           <p>Bias can also appear when teachers in high school are recommending their students for advanced coursework. Statistics show that racial minority students, especially Black and Latino students, are less likely to be recommended into Advanced Placement (AP) or International Baccalaureate (IB) courses compared to their white peers. Instead, they are more likely to be recommended into lower track classes even if they have comparable grades with white students that get recommended into AP or IB courses. Additionally, high school guidance counselors may be more reluctant to encourage minority students to apply to “higher tier” schools and instead encourage them to “keep their list realistic”, implying that they should stick to applying to state schools and community colleges. When these students arrive college, they often face under preparedness in their courses along with elitism from both peers and professors. They face heightened levels of impostor syndrome, thus creating a negative feedback loop where they feel more reluctant to make effort in class because the professors have lower expectations for them.</p> 
           </p>
         </div>
+        
         <div className="Section">
           <h1 className="Title">How can we combat this bias?</h1>
           <ul className="BulletPoints">

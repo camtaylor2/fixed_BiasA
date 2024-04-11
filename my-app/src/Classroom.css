@@ -1,6 +1,6 @@
 .ClassroomPage {
-    position: relative;
-    padding: 20px;
+    
+    
   }
   
   .Content {
@@ -32,12 +32,12 @@
   }
   
   .Circle {
-    width: 300px;
+    width: 350px;
     height: 200px;
     border-radius: 50%;
     background-color: #F8C8DC;
     display: flex;
-    justify-content: center;
+    margin-right: 10ex;
     align-items: center;
     font-size: 14px
   }
