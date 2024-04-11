@@ -19,24 +19,21 @@ function Classroom() {
         <div className="Section">
           <h1 className="Title">How can we combat this bias?</h1>
           <ul className="BulletPoints">
-            <li>Blocking out the names and gender of applicants during the hiring process and instead anonymize them by giving them a number attached to their application materials</li>
-            <li>Think about if it matters if there was a gender swap in a role (“does it make a difference or matter if a man or woman was in this position?”)</li>
-            <li>Look solely at an employee’s work ethics and performance. Look at qualifications during the hiring process and not attractiveness</li>
-            <li>Make sure workplace is diverse by increasing affinity groups, support resources, and diversity in the new hires</li>
-            <li>Facilitate intergroup relationships and dialogue in the workplace</li>
-            <li>Examine one’s own behavior around those who are similar to themselves and those who are different. Lean into the discomfort when examining these things and where your attitudes towards different groups came from.</li>
-            <li>Make others aware about their own biases and the biases that are prevalent at the workplace. Make a commitment to overcome bias and to foster inclusion through actions and not just lip service.</li>
+            <li>Making educators aware that they have certain implicit biases (taking IAT - implicit association test - assessments). Once they are made aware of the biases, they can begin reflecting on where the biases originate and work to improve their interactions with those students. </li>
+            <li>Developing empathy towards the students and learning about their personal stories can help educators build relationships with all their students regardless of their social identities. If a student shares something about their culture or corrects a professor or teacher on something you said about the culture they come from, the professor or teacher should at the very least acknowledge what the student shared. Having professors and teachers learn about norms in different cultures can greatly improve their interactions with multicultural students. </li>
+            <li>Develop more cross-group friendships in their own lives. This can help them become more open and relaxed in interacting with people of different groups and this can translate into the classroom where they will have much healthier relationships with all their students and not only the students from non marginalized groups.</li>
+            <li>When an educator gets called out for bias or favoritism, they should not get defensive. Instead, they should pay attention to how the behavior they were called out for affects students and where those biases come from.</li>
           </ul>
         </div>
         <div className="CircleContainer">
           <div className="Circle">
-            <p>“At my job, I have repeatedly expressed that I wanted to work the cash register since I’m friendly, good with people, and fast at learning technology. When I was hired, I said I wanted to work the cash register but was told I would need more experience on the job before they let me do it. They let a less experienced white coworker of mine work the cash register”</p>
+            <p>“I had a sociology professor who did not take me seriously. I was one of 7 racial minority students in a class of 28 students and the only one with an accent. She had lower expectations of me and encouraged me to WX, implying that she thought I couldn’t pass the class. She was much friendlier with the white American students as well, showing signs of clear favoritism and unconscious bias.”</p>
           </div>
           <div className="Circle">
-            <p>“My supervisor (white woman) kept suggesting I listen to a particular song from a soundtrack, saying “I think you’ll really like it”. When I got home and played it, it was a song about white women lusting after black boys”.</p>
+            <p>“In one of my classes sophomore year, we were learning about Muslim traditions. One of my classmates was wearing a hoodie with the hood up and she said, in front of the whole class, “you look like you could be Muslim” (insinuating that he looked like he was wearing a hijab). She then proceeded to laugh” .</p>
           </div>
           <div className="Circle">
-            <p>“It is sickening... how Villanova Dining Services minority staff are being treated very unfairly. TILL THIS DAY. I know a guy who worked his ass off there for so many years and wouldn’t let him advance, POC in the dining service department NEED YOUR HELP. They don’t have a voice because of fear of termination”</p>
+            <p>“One of my professors kept messing up my name and the name of another student of color despite our names not even being that hard to pronounce. It took the intervention of a white student for her to finally realize she called us both by the wrong names”</p>
           </div>
         </div>
       </div>
