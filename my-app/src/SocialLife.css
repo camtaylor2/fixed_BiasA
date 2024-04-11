@@ -1,0 +1,60 @@
+
+
+.Content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.Section {
+  margin-bottom: 40px;
+}
+
+.Title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.Description {
+  font-size: 16px;
+}
+
+.BulletPoints {
+  font-size: 16px;
+}
+
+.Testimonials {
+    margin-right: 1000px;
+    font-weight: bold;
+}
+.CircleContainer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5x;
+}
+
+.Circle {
+  width: 350px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: #76d676;
+  display: flex;
+  margin-right: 10ex;
+  align-items: center;
+  font-size: 14px
+}
+
+.HeaderImage {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 40px; /* Adjust the size as needed */
+  height: auto;
+}
+
+.RightImage {
+    position: absolute;
+    top: 150px;
+    right: 20px;
+    width: 300px; /* Adjust the size as needed */
+    height: auto;
+  }

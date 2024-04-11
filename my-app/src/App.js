@@ -13,7 +13,7 @@ export default function App() {
     <><Header />
     <Routes>
       <Route exact path="/" element={<Homepage />} />
-      <Route path="/social-life" element={<SocialLife />}> </Route>
+      <Route path="/sociallife" element={<SocialLife />}> </Route>
       <Route path="/workplace" element={<Workplace />}> </Route>
       <Route path="/classroom" element={<Classroom />}> </Route>
       <Route path="/resources" element={<Resources />}> </Route>
