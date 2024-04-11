@@ -48,6 +48,10 @@
     align-items: center;
     font-size: 14px
   }
+  .Testimonials {
+    margin-right: 1000px;
+    font-weight: bold;
+}
   
   .HeaderImage {
     position: absolute;

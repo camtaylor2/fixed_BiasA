@@ -29,6 +29,9 @@ function Classroom() {
             <li>When an educator gets called out for bias or favoritism, they should not get defensive. Instead, they should pay attention to how the behavior they were called out for affects students and where those biases come from.</li>
           </ul>
         </div>
+        <div className="Testimonials">
+            Testimonials:
+        </div>
         <div className="CircleContainer">
           <div className="Circle">
             <p>“I had a sociology professor who did not take me seriously. I was one of 7 racial minority students in a class of 28 students and the only one with an accent. She had lower expectations of me and encouraged me to WX, implying that she thought I couldn’t pass the class. She was much friendlier with the white American students as well, showing signs of clear favoritism and unconscious bias.”</p>

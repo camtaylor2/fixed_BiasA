@@ -26,6 +26,9 @@ function Workplace() {
             <li>Examine one’s own behavior around those who are similar to themselves and those who are different. Lean into the discomfort when examining these things and where your attitudes towards different groups came from.</li>
             <li>Make others aware about their own biases and the biases that are prevalent at the workplace. Make a commitment to overcome bias and to foster inclusion through actions and not just lip service.</li>
           </ul>
+          <div className="Testimonials">
+            Testimonials:
+        </div>
         </div>
         <div className="CircleContainer">
           <div className="Circle">
