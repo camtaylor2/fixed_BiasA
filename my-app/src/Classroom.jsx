@@ -19,7 +19,6 @@ function Classroom() {
           </p>
             
         </div>
-        
         <div className="Section">
           <h1 className="Title">How can we combat this bias?</h1>
           <ul className="BulletPoints">
