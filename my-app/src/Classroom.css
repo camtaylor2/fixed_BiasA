@@ -1,0 +1,50 @@
+.ClassroomPage {
+    padding: 70px;
+  }
+  
+  .Content {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .Section {
+    margin-bottom: 40px;
+  }
+  
+  .Title {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .Description {
+    font-size: 16px;
+  }
+  
+  .BulletPoints {
+    font-size: 16px;
+  }
+  
+  .CircleContainer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+  }
+  
+  .Circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .HeaderImage {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 100px; /* Adjust the size as needed */
+    height: auto;
+  }
+  
