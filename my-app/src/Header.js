@@ -1,3 +1,4 @@
+import './Header.css';
 import { Link } from 'react-router-dom';
 
 
@@ -12,7 +13,7 @@ return (
 <div className="header_right">
 <Link className="link" to="/Workplace">Workplace</Link>
 <Link className="link" to="/Classroom">Classroom</Link>
-<Link className="link" to="/SocialLife">Social Life</Link>
+<Link className="link" to="/SocialLife">Social <br/>Life</Link>
 <Link className="link" to="/Resources">Resources</Link>
 </div>
 </div>

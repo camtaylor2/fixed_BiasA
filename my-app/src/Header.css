@@ -25,18 +25,18 @@
 .header_right {
     display: flex;
     justify-content: space-evenly;
-    width: 25%;
+    width: 40%;
 }
 
 .header_right div {
     color: #FFFFFF;
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     font-family: 'Inter';
     text-decoration: none;
 }
 .link{
     color: #FFFFFF;
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     font-family: 'Inter';
     cursor: pointer;
     text-decoration: none;
