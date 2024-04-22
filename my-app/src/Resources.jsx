@@ -11,8 +11,15 @@ function Resources() {
           <h1 className="Title">Resources</h1>
         </div>
         <div className="Section">
+        <p className="Description">
+          Below are a variety of resources to further your learning about bias beyond what our site teaches. Regardless if you're
+          in school, academia, or the workforce, our resources can lead you further in bias education.
+          <br/>
+          <br/>
+          You can click the hyperlinks to learn about the topics each link describes.
+        </p>
           <p className="Description">
-            <a href = "https://implicit.harvard.edu/implicit/takeatest.html">Test Your Bias</a>
+            <a href = "https://implicit.harvard.edu/implicit/takeatest.html">Test Your Bias - IAT Test</a>
             <br/>
             <a href = "https://academicaffairs.ucsc.edu/events/documents/Microaggressions_Examples_Arial_2014_11_12.pdf">Recognizing Microaggresions</a>
             <br/>

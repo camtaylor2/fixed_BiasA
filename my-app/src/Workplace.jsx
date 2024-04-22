@@ -11,8 +11,17 @@ function Workplace() {
         <div className="Section">
           <h1 className="Title">How does bias manifest in the workplace?</h1>
           <p className="Description">
-          Bias can manifest in the workplace in a few different forms: gender bias, racial/affinity bias, beauty bias, and name bias. This can appear in the form of a company’s hiring manager unconsciously allowing his bias to influence his hiring decisions which may result in a less diverse workplace (example: a male hiring manager ends up choosing the male candidate instead of the female candidate despite both having comparable credentials). It can also appear when discussing who deserves a raise or a promotion. Women are often seen as less capable than their male counterparts, resulting in them being less likely to get a raise or a promotion. Additionally, beauty bias can play a part in both gender and racial bias since some employees may be favored more than others simply for being good looking or conventionally attractive. This type of favoritism can create resentment and further perpetuate inequalities that already exist. Name bias manifests when people have preconceived notions of another employee from their name alone (biases about the person’s perceived gender, race, ethnicity, and nationality). Studies show that people with foreign sounding names are less likely to be called back for an interview in the hiring process compared to people with a more “American” sounding name. Furthermore, people are likely to subconsciously infer a person’s race, ethnicity, nationality, and gender from their name which, if unchecked, can make the biases worse and can go from unconscious to conscious biases. 
-
+          Bias can manifest in the workplace in a few different forms: gender bias, racial/affinity bias, beauty bias, and name bias. 
+          <br/>
+          <br/>
+          Gender bias can appear in the form of a company’s hiring manager unconsciously allowing his bias to influence his hiring decisions which may result in a less diverse workplace (example: a male hiring manager ends up choosing the male candidate instead of the female candidate despite both having comparable credentials). 
+          It can also appear when discussing who deserves a raise or a promotion. Women are often seen as less capable than their male counterparts, resulting in them being less likely to get a raise or a promotion. 
+          <br/>
+          <br/>
+          Additionally, beauty bias can play a part in both gender and racial bias since some employees may be favored more than others simply for being good looking or conventionally attractive. This type of favoritism can create resentment and further perpetuate inequalities that already exist. 
+          <br/>
+          <br/>
+          Name bias manifests when people have preconceived notions of another employee from their name alone (biases about the person’s perceived gender, race, ethnicity, and nationality). Studies show that people with foreign sounding names are less likely to be called back for an interview in the hiring process compared to people with a more “American” sounding name. Furthermore, people are likely to subconsciously infer a person’s race, ethnicity, nationality, and gender from their name which, if unchecked, can make the biases worse and can go from unconscious to conscious biases. 
           </p>
         </div>
         <div className="Section">
