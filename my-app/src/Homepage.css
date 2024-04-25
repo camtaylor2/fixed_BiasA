@@ -18,17 +18,17 @@
     height: auto;
   }
   
-  .TextContainer {
-    max-width: 600px;
-  }
   
-  .BlueTextRight {
-    color: #87CAFA;
-    text-align: right;
+  .BlueTextAbove {
+    color: #4c9cd6;
     margin-bottom: 20px;
+    font-size: 20px;
+    font-style: bold;
   }
   
   .BlueTextBelow {
-    color: #87CAFA;
+    color: #4c9cd6;
+    font-size: 20px;
+    font-style: bold;
   }
   
