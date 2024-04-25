@@ -1,15 +1,21 @@
 import React from 'react';
-import Header from './Header';
+import Header from './Header.js';
 import './Classroom.css'; // Import CSS file for styling
 //import imageSrc from './image.png'; // Import your image file
 
 function Workplace() {
   return (
     <div className="WorkplacePage">
-      
+       
+
       <div className="Content">
         <div className="Section">
           <h1 className="Title">How does bias manifest in the workplace?</h1>
+          <div className="WorkplaceImageContainer">
+                <div className = "WorkplaceImage">
+                <img src = "../images/Workplace.jpeg" alt = "image of Qing giving presentation" className = "RightImage"/>
+                </div>
+          </div>
           <p className="Description">
           Bias can manifest in the workplace in a few different forms: gender bias, racial/affinity bias, beauty bias, and name bias. 
           <br/>

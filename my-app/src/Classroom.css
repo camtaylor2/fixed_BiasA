@@ -1,7 +1,6 @@
 .ClassroomPage {
     
     
-  }
   
   .Content {
     max-width: 800px;
@@ -26,10 +25,11 @@
   }
   .ClassroomImageContainer {
     width: 100%;
-    height: 100%;
+    height: 50%;
   }
   .ClassroomImage {
     background-image: url('../images/Classroom.jpg');
+    height: 1000px;
   }
   .CircleContainer {
     display: flex;
@@ -67,3 +67,4 @@
     width: 300px; /* Adjust the size as needed */
     height: auto;
   }
+}
