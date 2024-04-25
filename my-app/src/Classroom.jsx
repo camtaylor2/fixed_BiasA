@@ -10,7 +10,7 @@ function Classroom() {
         <div className="Section">
           <h1 className="Title">How does bias manifest in the classroom?</h1>
           <div className="ClassroomImageContainer">
-              <img alt = "Qing gives a speech" className = "RightImage" src = {image}/>
+              <img alt = "large lecture hall" className = "RightImage" src = {image}/>
             </div>
           <p className="Description">
           <p>Bias can manifest in the classroom through differential treatment of students by a teacher or professor. This can appear in the form of expecting students of a marginalized race, ethnicity, national origin, gender identity, sexual orientation, or socioeconomic status to not perform as well as students who are of non marginalized identities. 
