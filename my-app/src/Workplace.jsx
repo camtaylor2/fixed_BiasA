@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from './Header.js';
-import './Classroom.css'; // Import CSS file for styling
+import './Workplace.css'; // Import CSS file for styling
 import image from './images/Workplace.jpeg'; // Import your image file
 
 function Workplace() {

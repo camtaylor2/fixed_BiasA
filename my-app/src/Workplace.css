@@ -6,10 +6,7 @@
     width: 100%;
     height: 100%;
   }
-  .WorkplaceImage {
-    background-image: url('../images/Workplace.jpeg');
-    height: 1000px;
-  }
+
   .Content {
     max-width: 800px;
     margin: 0 auto;
@@ -25,11 +22,11 @@
   }
   
   .Description {
-    font-size: 16px;
+    font-size: 20px;
   }
   
   .BulletPoints {
-    font-size: 16px;
+    font-size: 20px;
   }
   
   .CircleContainer {
@@ -52,6 +49,7 @@
   .Testimonials {
     margin-right: 1000px;
     font-weight: bold;
+    font-size: 24px;
 }
   .HeaderImage {
     position: absolute;
