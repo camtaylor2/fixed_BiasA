@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from './Header';
 import './Classroom.css'; // Import CSS file for styling
-//import imageSrc from './image.png'; // Import your image file
+import image from './images/Classroom.jpg'; // Import your image file
 
 function Classroom() {
   return (
@@ -10,9 +10,7 @@ function Classroom() {
         <div className="Section">
           <h1 className="Title">How does bias manifest in the classroom?</h1>
           <div className="ClassroomImageContainer">
-                <div className = "ClassroomImage">
-                <img src = "../images/Classroom.jpg" alt = "image of a lecture hall" className = "RightImage"/>
-                </div>
+              <img alt = "Qing gives a speech" className = "RightImage" src = {image}/>
             </div>
           <p className="Description">
           <p>Bias can manifest in the classroom through differential treatment of students by a teacher or professor. This can appear in the form of expecting students of a marginalized race, ethnicity, national origin, gender identity, sexual orientation, or socioeconomic status to not perform as well as students who are of non marginalized identities. 

@@ -27,10 +27,7 @@
     width: 100%;
     height: 50%;
   }
-  .ClassroomImage {
-    background-image: url('../images/Classroom.jpg');
-    height: 1000px;
-  }
+ 
   .CircleContainer {
     display: flex;
     justify-content: space-between;

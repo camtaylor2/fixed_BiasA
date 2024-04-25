@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from './Header.js';
 import './Classroom.css'; // Import CSS file for styling
-//import imageSrc from './image.png'; // Import your image file
+import image from './images/Workplace.jpeg'; // Import your image file
 
 function Workplace() {
   return (
@@ -13,7 +13,7 @@ function Workplace() {
           <h1 className="Title">How does bias manifest in the workplace?</h1>
           <div className="WorkplaceImageContainer">
                 <div className = "WorkplaceImage">
-                <img src = "../images/Workplace.jpeg" alt = "image of Qing giving presentation" className = "RightImage"/>
+                <img alt = "Qing gives a speech" className = "RightImage" src = {image}/>
                 </div>
           </div>
           <p className="Description">
